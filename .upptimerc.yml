@@ -7,6 +7,12 @@ sites:
     url: https://checkout.sportclub.com.ar/paso2/total-mensual
   - name: MiClub
     url: https://www.app.apisportclub.xyz
+  - name: Procesos
+    url: https://procesos.apisportclub.xyz
+  - name: Backend
+    url: https://apisportclub.xyz/
+  - name: Backoffice
+    url: https://backoffice.apisportclub.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,6 +26,7 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
