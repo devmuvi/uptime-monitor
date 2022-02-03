@@ -15,7 +15,7 @@ sites:
     url: https://backoffice.apisportclub.xyz/
   - name: Backoffice socios
     method: GET
-    url: https://backoffice.apisportclub.xyz/socios/${{ secrets.SOCIO_ID }}
+    url: ${{ secrets.SOCIO_URL }}
     headers:
       - "Content-Type: application/json"
       - "x-access-tokens": "${{ secrets.BACKOFFICE_TOKEN }}"
