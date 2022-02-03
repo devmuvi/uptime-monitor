@@ -16,9 +16,6 @@ sites:
   - name: Backoffice socios
     method: GET
     url: $BACKOFFICE_SOCIO_URL
-    headers:
-      - "Content-Type: application/json"
-      - "x-access-tokens: $BACKOFFICE_ACCESS_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
