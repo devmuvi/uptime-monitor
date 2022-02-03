@@ -15,10 +15,10 @@ sites:
     url: https://backoffice.apisportclub.xyz/
   - name: Backoffice socios
     method: GET
-    url: ${{ secrets.SOCIO_URL }}
+    url: $SOCIO_URL
     headers:
       - "Content-Type: application/json"
-      - "x-access-tokens": "${{ secrets.BACKOFFICE_TOKEN }}"
+      - "x-access-tokens": "$BACKOFFICE_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
