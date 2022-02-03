@@ -4,18 +4,20 @@
     "url": "https://checkout.sportclub.com.ar/paso2/total-mensual",
     "icon": "https://favicons.githubusercontent.com/checkout.sportclub.com.ar",
     "slug": "checkout",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3573,
     "timeDay": 3573,
     "timeWeek": 3573,
     "timeMonth": 3573,
     "timeYear": 3573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "MiClub",
