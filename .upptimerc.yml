@@ -15,7 +15,7 @@ sites:
     url: https://backoffice.apisportclub.xyz/
   - name: Backoffice socios
     method: GET
-    url: $SOCIO_URL
+    url: $BACKOFFICE_SOCIO_URL
     headers:
       - "Content-Type: application/json"
       - "x-access-tokens": "$BACKOFFICE_TOKEN"
