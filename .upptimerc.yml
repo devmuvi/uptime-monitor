@@ -14,7 +14,7 @@ sites:
   - name: Backoffice
     url: https://backoffice.apisportclub.xyz/
   - name: Secret Site
-    url: $SECRET_URL
+    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
