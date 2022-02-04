@@ -13,11 +13,8 @@ sites:
     url: https://apisportclub.xyz/
   - name: Backoffice
     url: https://backoffice.apisportclub.xyz/
-  - name: Secret Site:
+  - name: Secret Site
     url: $SECRET_URL
-  - name: Backoffice socios
-    method: GET
-    url: $BACKOFFICE_SOCIO_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
