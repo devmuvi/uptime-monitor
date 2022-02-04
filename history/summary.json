@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/checkout.sportclub.com.ar",
     "slug": "checkout",
     "status": "up",
-    "uptime": "87.74%",
+    "uptime": "90.13%",
     "uptimeDay": "87.74%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "87.74%",
-    "time": 1466,
-    "timeDay": 1466,
-    "timeWeek": 1466,
-    "timeMonth": 1466,
-    "timeYear": 1466,
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "90.13%",
+    "uptimeYear": "90.13%",
+    "time": 1344,
+    "timeDay": 388,
+    "timeWeek": 1344,
+    "timeMonth": 1344,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2022-02-03": 176
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 272,
+    "timeDay": 267,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 215,
+    "timeDay": 186,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 233,
+    "timeDay": 200,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 257,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 242,
+    "timeDay": 216,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 46
+      "2022-02-04": 57,
+      "2022-02-03": 339
     }
   }
 ]
