@@ -19,6 +19,11 @@ sites:
     headers:
     - "Content-Type: application/json"
     - "x-access-tokens: $BACKOFFICE_TOKEN"
+  - name: Consulta Socio Backoffice (sin access token)
+    method: GET
+    url: $BACKOFFICE_SOCIO_URL
+    expectedStatusCodes:
+    - 401
   - name: Consulta Sedes Backoffice
     method: GET
     url: $BACKOFFICE_SEDES_URL
