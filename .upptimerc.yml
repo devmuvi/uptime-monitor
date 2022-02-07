@@ -13,8 +13,6 @@ sites:
     url: https://apisportclub.xyz/
   - name: Backoffice
     url: https://backoffice.apisportclub.xyz/
-  - name: Secret Site
-    url: $SECRET_SITE
   - name: Consulta Socio Backoffice
     method: GET
     url: $BACKOFFICE_SOCIO_URL
