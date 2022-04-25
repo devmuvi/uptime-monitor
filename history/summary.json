@@ -104,18 +104,20 @@
     "url": "$BACKOFFICE_SOCIO_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "consulta-socio-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 123,
-    "timeWeek": 122,
-    "timeMonth": 121,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 181,
+    "timeDay": 72,
+    "timeWeek": 109,
+    "timeMonth": 118,
+    "timeYear": 181,
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   },
   {
     "name": "Consulta Socio Backoffice (sin access token)",
@@ -142,17 +144,19 @@
     "url": "$BACKOFFICE_SEDES_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "consulta-sedes-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 385,
-    "timeWeek": 382,
-    "timeMonth": 384,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "time": 482,
+    "timeDay": 200,
+    "timeWeek": 336,
+    "timeMonth": 373,
+    "timeYear": 482,
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   }
 ]
