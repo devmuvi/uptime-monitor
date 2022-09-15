@@ -30,7 +30,14 @@ sites:
     headers:
     - "Content-Type: application/json"
     - "x-access-tokens: $BACKOFFICE_TOKEN"
-    
+  - name: Backoffice Buen Club
+    url: https://back.buen.club/
+  - name: Consulta Socio Backoffice Buen Club
+    method: GET
+    url: https://back.buen.club/socios
+    headers:
+    - "Content-Type: application/json"
+    - "x-access-tokens: $BUENCLUB_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
