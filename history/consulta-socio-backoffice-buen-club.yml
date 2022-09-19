@@ -1,7 +1,7 @@
 url: https://back.buen.club/socios
-status: up
-code: 200
-responseTime: 1176
-lastUpdated: 2022-09-18T23:15:38.274Z
+status: down
+code: 502
+responseTime: 41
+lastUpdated: 2022-09-19T17:15:21.388Z
 startTime: Thu Sep 15 2022 13:43:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
