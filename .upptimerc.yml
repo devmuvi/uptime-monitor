@@ -7,31 +7,10 @@ sites:
     url: https://www.pagar.muvinai.com/paso2/total-mensual
   - name: Checkout (Back)
     url: https://api.pagar.club/plan/total-mensual
-  - name: MiClub
-    url: https://www.app.apisportclub.xyz
   - name: Procesos
     url: https://procesos.apisportclub.xyz
   - name: Backend
     url: https://apisportclub.xyz/
-  - name: Backoffice
-    url: https://backoffice.apisportclub.xyz/
-  - name: Consulta Socio Backoffice
-    method: GET
-    url: $BACKOFFICE_SOCIO_URL
-    headers:
-    - "Content-Type: application/json"
-    - "x-access-tokens: $BACKOFFICE_TOKEN"
-  - name: Consulta Socio Backoffice (sin access token)
-    method: GET
-    url: $BACKOFFICE_SOCIO_URL
-    expectedStatusCodes:
-    - 401
-  - name: Consulta Sedes Backoffice
-    method: GET
-    url: $BACKOFFICE_SEDES_URL
-    headers:
-    - "Content-Type: application/json"
-    - "x-access-tokens: $BACKOFFICE_TOKEN"
   - name: Backoffice Buen Club
     url: https://back.buen.club/
   - name: Consulta Socio Backoffice Buen Club
