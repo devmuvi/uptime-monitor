@@ -22,19 +22,19 @@
     "url": "https://api.pagar.club/plan/total-mensual",
     "icon": "https://icons.duckduckgo.com/ip3/api.pagar.club.ico",
     "slug": "checkout-back",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 309,
-    "timeWeek": 546,
-    "timeMonth": 622,
-    "timeYear": 632,
+    "time": 633,
+    "timeDay": 473,
+    "timeWeek": 575,
+    "timeMonth": 627,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 10
     }
   },
   {
@@ -120,7 +120,7 @@
     "timeMonth": 109,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-07-07": 1119,
+      "2023-07-07": 1130,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
