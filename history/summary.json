@@ -22,9 +22,9 @@
     "url": "https://api.pagar.club/plan/total-mensual",
     "icon": "https://icons.duckduckgo.com/ip3/api.pagar.club.ico",
     "slug": "checkout-back",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 582,
     "timeMonth": 596,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Procesos",
@@ -107,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "53.55%",
+    "uptime": "53.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.55%",
+    "uptimeYear": "53.48%",
     "time": 558,
     "timeDay": 148,
     "timeWeek": 107,
     "timeMonth": 109,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2023-07-26": 52,
+      "2023-07-26": 674,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
