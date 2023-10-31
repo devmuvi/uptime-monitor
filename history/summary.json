@@ -42,19 +42,19 @@
     "url": "https://procesos.apisportclub.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/procesos.apisportclub.xyz.ico",
     "slug": "procesos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 198,
-    "timeWeek": 232,
-    "timeMonth": 202,
+    "timeDay": 160,
+    "timeWeek": 216,
+    "timeMonth": 199,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 14
     }
   },
   {
@@ -119,7 +119,7 @@
     "timeMonth": 108,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-10-31": 856,
+      "2023-10-31": 869,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
