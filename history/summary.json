@@ -42,9 +42,9 @@
     "url": "https://procesos.apisportclub.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/procesos.apisportclub.xyz.ico",
     "slug": "procesos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 195,
     "timeMonth": 253,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-29": 0
+    }
   },
   {
     "name": "Backend",
@@ -106,18 +108,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "33.54%",
+    "uptime": "33.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.92%",
+    "uptimeYear": "8.76%",
     "time": 352,
     "timeDay": 211,
     "timeWeek": 116,
     "timeMonth": 114,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-01-29": 41,
+      "2024-01-29": 862,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
