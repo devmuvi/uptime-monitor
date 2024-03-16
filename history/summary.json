@@ -6,18 +6,16 @@
     "slug": "checkout-front",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 294,
-    "timeWeek": 244,
-    "timeMonth": 265,
+    "time": 352,
+    "timeDay": 296,
+    "timeWeek": 219,
+    "timeMonth": 264,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2024-03-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Checkout (Back)",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 644,
-    "timeDay": 323,
-    "timeWeek": 480,
+    "time": 643,
+    "timeDay": 324,
+    "timeWeek": 391,
     "timeMonth": 867,
     "timeYear": 649,
     "dailyMinutesDown": {
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 239,
-    "timeDay": 92,
-    "timeWeek": 164,
-    "timeMonth": 179,
-    "timeYear": 237,
+    "time": 238,
+    "timeDay": 101,
+    "timeWeek": 135,
+    "timeMonth": 180,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2024-02-09": 778,
       "2024-02-08": 373
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 99,
-    "timeWeek": 167,
-    "timeMonth": 203,
+    "timeDay": 96,
+    "timeWeek": 139,
+    "timeMonth": 204,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 377,
-    "timeDay": 225,
-    "timeWeek": 206,
-    "timeMonth": 226,
+    "timeDay": 97,
+    "timeWeek": 176,
+    "timeMonth": 218,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-10-04": 126,
@@ -109,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "30.71%",
+    "uptime": "30.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 327,
-    "timeDay": 77,
-    "timeWeek": 101,
+    "timeDay": 76,
+    "timeWeek": 92,
     "timeMonth": 106,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-03-15": 272,
+      "2024-03-16": 39,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -483,8 +482,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   }
 ]
