@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 146,
-    "timeWeek": 200,
-    "timeMonth": 250,
-    "timeYear": 338,
+    "timeDay": 269,
+    "timeWeek": 213,
+    "timeMonth": 251,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 642,
-    "timeDay": 336,
-    "timeWeek": 398,
-    "timeMonth": 861,
-    "timeYear": 648,
+    "time": 641,
+    "timeDay": 434,
+    "timeWeek": 409,
+    "timeMonth": 860,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-07-26": 30
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 238,
-    "timeDay": 72,
-    "timeWeek": 104,
+    "timeDay": 166,
+    "timeWeek": 113,
     "timeMonth": 170,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 71,
-    "timeWeek": 105,
+    "timeDay": 189,
+    "timeWeek": 118,
     "timeMonth": 190,
     "timeYear": 213,
     "dailyMinutesDown": {}
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 376,
-    "timeDay": 315,
-    "timeWeek": 195,
-    "timeMonth": 224,
-    "timeYear": 342,
+    "timeDay": 169,
+    "timeWeek": 204,
+    "timeMonth": 216,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-10-04": 126,
       "2023-10-02": 19,
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "30.50%",
+    "uptime": "30.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 325,
-    "timeDay": 77,
-    "timeWeek": 82,
+    "timeDay": 100,
+    "timeWeek": 84,
     "timeMonth": 103,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-03-19": 41,
+      "2024-03-20": 40,
+      "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -481,8 +482,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   }
 ]
