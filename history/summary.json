@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 302,
-    "timeWeek": 264,
-    "timeMonth": 233,
-    "timeYear": 335,
+    "timeDay": 369,
+    "timeWeek": 291,
+    "timeMonth": 234,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 633,
-    "timeDay": 571,
-    "timeWeek": 428,
-    "timeMonth": 448,
+    "timeDay": 542,
+    "timeWeek": 459,
+    "timeMonth": 444,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-07-26": 30
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 233,
-    "timeDay": 291,
-    "timeWeek": 173,
-    "timeMonth": 157,
-    "timeYear": 233,
+    "timeDay": 251,
+    "timeWeek": 198,
+    "timeMonth": 155,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2024-02-09": 778,
       "2024-02-08": 373
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 313,
-    "timeWeek": 175,
-    "timeMonth": 156,
+    "timeDay": 255,
+    "timeWeek": 199,
+    "timeMonth": 154,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 368,
-    "timeDay": 303,
-    "timeWeek": 206,
-    "timeMonth": 198,
+    "timeDay": 249,
+    "timeWeek": 229,
+    "timeMonth": 193,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-10-04": 126,
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "29.53%",
+    "uptime": "29.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 316,
-    "timeDay": 138,
-    "timeWeek": 104,
-    "timeMonth": 96,
+    "timeDay": 121,
+    "timeWeek": 110,
+    "timeMonth": 95,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-04-06": 40,
+      "2024-04-07": 46,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -481,8 +482,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   }
 ]
