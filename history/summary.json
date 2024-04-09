@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 163,
-    "timeWeek": 281,
-    "timeMonth": 230,
-    "timeYear": 336,
+    "timeDay": 522,
+    "timeWeek": 301,
+    "timeMonth": 235,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 632,
-    "timeDay": 358,
-    "timeWeek": 462,
-    "timeMonth": 437,
+    "timeDay": 543,
+    "timeWeek": 466,
+    "timeMonth": 424,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2023-07-26": 30
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 232,
-    "timeDay": 96,
-    "timeWeek": 199,
-    "timeMonth": 149,
+    "timeDay": 254,
+    "timeWeek": 195,
+    "timeMonth": 148,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-02-09": 778,
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 97,
-    "timeWeek": 202,
-    "timeMonth": 143,
+    "timeDay": 259,
+    "timeWeek": 199,
+    "timeMonth": 142,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 368,
-    "timeDay": 309,
-    "timeWeek": 230,
-    "timeMonth": 193,
+    "timeDay": 281,
+    "timeWeek": 234,
+    "timeMonth": 192,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-10-04": 126,
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "29.43%",
+    "uptime": "29.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 315,
-    "timeDay": 82,
+    "timeDay": 124,
     "timeWeek": 110,
     "timeMonth": 93,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-04-08": 42,
+      "2024-04-09": 42,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -481,8 +482,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   }
 ]
