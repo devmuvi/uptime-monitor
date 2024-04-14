@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 230,
-    "timeWeek": 340,
-    "timeMonth": 249,
+    "timeDay": 209,
+    "timeWeek": 317,
+    "timeMonth": 251,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 631,
-    "timeDay": 365,
-    "timeWeek": 485,
-    "timeMonth": 430,
-    "timeYear": 633,
+    "time": 630,
+    "timeDay": 426,
+    "timeWeek": 468,
+    "timeMonth": 433,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2023-07-26": 30
     }
@@ -48,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 232,
-    "timeDay": 159,
-    "timeWeek": 213,
+    "time": 231,
+    "timeDay": 74,
+    "timeWeek": 187,
     "timeMonth": 155,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 109,
-    "timeWeek": 210,
-    "timeMonth": 148,
-    "timeYear": 211,
+    "timeDay": 73,
+    "timeWeek": 184,
+    "timeMonth": 147,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 367,
-    "timeDay": 101,
-    "timeWeek": 288,
-    "timeMonth": 203,
-    "timeYear": 260,
+    "timeDay": 91,
+    "timeWeek": 265,
+    "timeMonth": 204,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2023-10-04": 126,
       "2023-10-02": 19,
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "29.17%",
+    "uptime": "29.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 313,
-    "timeDay": 87,
-    "timeWeek": 115,
+    "timeDay": 80,
+    "timeWeek": 109,
     "timeMonth": 95,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-04-13": 35,
+      "2024-04-14": 48,
+      "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -481,8 +482,7 @@
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
-      "2023-04-16": 1440,
-      "2023-04-15": 1440
+      "2023-04-16": 1440
     }
   }
 ]
