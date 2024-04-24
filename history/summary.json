@@ -63,9 +63,9 @@
     "url": "https://apisportclub.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/apisportclub.xyz.ico",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 167,
     "timeMonth": 161,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   },
   {
     "name": "Backoffice Buen Club",
@@ -107,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "28.62%",
+    "uptime": "28.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -118,7 +120,7 @@
     "timeMonth": 98,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-04-24": 42,
+      "2024-04-24": 862,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
