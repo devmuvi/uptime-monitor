@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pagar.muvinai.com.ico",
     "slug": "checkout-front",
     "status": "down",
-    "uptime": "58.80%",
+    "uptime": "58.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 274,
+    "time": 277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -379,8 +380,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pagar.club.ico",
     "slug": "checkout-back",
     "status": "down",
-    "uptime": "58.80%",
+    "uptime": "58.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 459,
+    "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -763,8 +764,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/procesos.apisportclub.xyz.ico",
     "slug": "procesos",
     "status": "down",
-    "uptime": "66.22%",
+    "uptime": "66.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 171,
+    "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1147,8 +1148,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apisportclub.xyz.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "63.51%",
+    "uptime": "63.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 154,
+    "time": 156,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1531,8 +1532,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "backoffice-buen-club",
     "status": "down",
-    "uptime": "59.06%",
+    "uptime": "59.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 208,
+    "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1915,8 +1916,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1925,7 +1925,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.buen.club.ico",
     "slug": "consulta-socio-backoffice-buen-club",
     "status": "down",
-    "uptime": "15.95%",
+    "uptime": "15.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1936,7 +1936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 79,
+      "2025-08-04": 78,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -2299,8 +2300,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   }
 ]
